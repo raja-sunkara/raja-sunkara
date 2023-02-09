@@ -8,7 +8,7 @@
 - Computer Vision
 
 
-- 🔭 I’m currently working on global optimization 
+- 🔭 I’m currently working on Object detection models
 - 🌱 I’m currently learning MLOPs
 
 
