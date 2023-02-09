@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 
 
-### Hi there, I am Prerak Raja 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
-
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+### Hi there, I am Raja 👋
+[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rajaprerak/](https://www.linkedin.com/in/rajasunkara/))](https://www.linkedin.com/in/rajasunkara/)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com)  -->
+<!-- 
+- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/) -->
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 - Backend Development ✍️
 - Machine Learning 🧐
 - Data Science 😬
-
+<!-- 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
+    </a> -->
     
-🛠**Tech Stack**
+<!-- 🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
+</div> -->
 
