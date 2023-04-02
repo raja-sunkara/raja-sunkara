@@ -8,7 +8,10 @@
 - Computer Vision
 
 
-- 🔭 I’m currently working on global optimization models
-- 🌱 I’m currently learning MLOPs
+🔭 **I’m currently working on**
+-  global optimization models
+-  MLOPs
+-  C++
+-  CUDA
 
 
