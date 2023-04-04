@@ -9,7 +9,7 @@
 
 
 🔭 **I’m currently working on**
--  global optimization models
+-  Global Optimization models
 -  MLOPs
 -  C++
 -  CUDA
