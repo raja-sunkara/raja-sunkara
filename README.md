@@ -6,6 +6,6 @@
 | - Deep Learning  | -  Global Optimization models    |
 | - Machine Learning | -  MLOPs    |
 | - PyTorch | -  C++    |
-| - Computer Vision | -  CUDA | -->
+| - Computer Vision | -  CUDA |
 
 
